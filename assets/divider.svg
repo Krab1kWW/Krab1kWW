@@ -1,0 +1,21 @@
+<svg width="800" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 20">
+  <!-- Верхняя волна -->
+  <path d="M0,10 Q200,5 400,10 T800,10" 
+        stroke="#4A90E2" 
+        stroke-width="2.5" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Нижняя волна -->
+  <path d="M0,10 Q200,15 400,10 T800,10" 
+        stroke="#764ba2" 
+        stroke-width="2.5" 
+        fill="none" 
+        stroke-linecap="round" 
+        opacity="0.8"/>
+  
+  <!-- Точки акцента -->
+  <circle cx="200" cy="10" r="2" fill="#4A90E2"/>
+  <circle cx="400" cy="10" r="2" fill="#764ba2"/>
+  <circle cx="600" cy="10" r="2" fill="#4A90E2"/>
+</svg>
