@@ -5,13 +5,15 @@
   Frontend Dev
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40" style="vertical-align: middle;" />
 </h1>
-
 <h4 align="center" style="color: #6c757d; font-weight: 300; margin-top: 5px;">
   <img src="https://img.icons8.com/color/16/4A90E2/marker.png" />
   Samara · From C# & Python to Web
 </h4>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krab1kWW/Krab1kWW/main/assets/divider.svg" alt="divider" width="80%" />
+</p>
+
 <p align="center">
   <strong>👨‍💻 Кто я:</strong> Студент → начинающий фронтенд-разработчик.<br>
   <strong>🔄 Мой путь:</strong> Изучал C# & Python → осознанно выбрал фронтенд.<br>
